@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Nick Trogh's GitHub profile
+
+I'm a content developer in the Content & Learning team at Microsoft. I help developers get successful by creating technical content on [Microsoft Docs](https://docs.microsoft.com) and [Microsoft Learn](https://docs.microsoft.com/learn). 
+
+<img align="left" alt="ntrogh' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ntrogh&show_icons=true&theme=radical" />
+

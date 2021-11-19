@@ -1,23 +1,10 @@
 ### Hi there 👋
 
-<!--
-**ntrogh/ntrogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sam Debruyn's GitHub profile
 
-Here are some ideas to get you started:
+I'm a data engineer at [dataroots](https://github.com/datarootsio). I build and extend data platforms and data pipelines for our customers and so much more. I play and tinker a lot with other tech in my spare time as well.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 😄 Pronouns: he/him
+* 📫 How to reach me: 🐤 [@s_debruyn](https://twitter.com/s_debruyn)
 
-# Nick Trogh's GitHub profile
-
-I'm a content developer in the Content & Learning team at Microsoft. I help developers get successful by creating technical content on [Microsoft Docs](https://docs.microsoft.com) and [Microsoft Learn](https://docs.microsoft.com/learn). 
-
-<img align="left" alt="ntrogh' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ntrogh&show_icons=true&theme=radical" />
-
+![sdebruyn](https://github-readme-stats.vercel.app/api?username=sdebruyn&count_private=true&show_icons=true "GitHub stats")

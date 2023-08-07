@@ -13,7 +13,7 @@ jobs:
       - uses: datarootsio/github-stats-card@v1
         with:
           username: sdebruyn
-          gh_token_stats: ${{ env.GH_PAT }}
+          gh_token_stats: ${{ secrets.GH_PAT }}
           gh_token_commits: ${{ secrets.GITHUB_TOKEN }}
           badge_path: assets/badge.svg
           header: "👋 hi, I'm"
